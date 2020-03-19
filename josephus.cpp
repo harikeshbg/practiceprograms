@@ -17,4 +17,5 @@ int main()
 	cin>>k;
 	int pos=josephusfun(n,k);
 	cout<<"safe position:"<<pos<<endl;
+	//Explaination of logic for josephus problem "https://cp-algorithms.com/others/josephus_problem.html"
 }
